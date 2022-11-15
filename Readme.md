@@ -1,5 +1,9 @@
 # Readme
 
+## Strukturelle Idee
+
+<img src="./images/repo_struktur.png" alt="Skizze der Struktur-Idee für das Git Repository"/>
+
 ## Anaconda Env
 
 Zur Ausführung des Python Codes, benutze ich ein Anaconda Environment. Die Requirements für das Environment sind in der Datei requirements.txt hinterlegt. Wenn anaconda installiert ist, lässt sich mit dem Befehl <code>conda create --name 'myenv' --file requirements.txt</code>, das Environment starten.
