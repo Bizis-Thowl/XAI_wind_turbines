@@ -21,16 +21,21 @@ Die Daten sind roh in 2016 und 2017 aufgeteilt und bilden die beiden Jahre kompl
 
 Wie im Papier[1], müssen die Daten erstmal grundsätzlich vorbereitet werden. Also bspw. fehlerhafte Sensordaten entfernen und die verschiedenen Datensätze (Sensor- und Mast-Daten) Zeitsynchronisiert zusammenbringen.
 
-in <code>Initial Data Preparation.ipynb</code> wird das umgesetzt werden. Das ist aktuell noch in Arbeit
+in <code>Initial Data Preparation.ipynb</code> wird das umgesetzt.
 
 ## Datengetriebene Datenvorbereitung
 
-Notebook noch nicht begonnen.
+Wird in <code>Auto Data Preparation reg.ipynb</code> (Regression) und <code>Auto Data Preparation.ipynb</code> (Klassifizierung) umgesetzt.
 
 
 ## Datengetrieben Feature Selection
 
-Notebook noch nicht begonnen.
+Wird in <code>Feature Selection reg.ipynb</code> (Regression) und <code>Feature Selection.ipynb</code> (Klassifizierung) umgesetzt.
+
+## Model Nutzung und Erklärungen
+
+Wird in <code>Interactive XAI reg.ipynb</code> (Regression) und <code>Interactive XAI.ipynb</code> (Klassifizierung) umgesetzt.
+
 
 # Referenzen
 
